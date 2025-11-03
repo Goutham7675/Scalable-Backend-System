@@ -7,7 +7,6 @@
 - **API Throughput**: ⚡ 25% Faster
 
   - Achieved through:
-    - Optimized connection pooling with HikariCP
     - Response caching with Spring Cache
     - Asynchronous request processing
     - Load-balanced API endpoints
