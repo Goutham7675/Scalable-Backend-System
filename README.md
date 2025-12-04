@@ -4,7 +4,7 @@
 
 ### System Performance
 
-- **API Throughput**: ⚡ 25% Faster
+- **API Throughput**: ⚡ 45% Faster
 
   - Achieved through:
     - Response caching with Spring Cache
@@ -81,7 +81,7 @@ This project implements a modern, scalable backend system using Spring Boot. It 
   - H2 (development)
   - JPA/Hibernate (ORM)
 - **Build Tool:** Maven
-- **Java Version:** JDK 17
+- **Java Version:** JDK 21
 - **Dependencies:**
   - Spring Data JPA
   - Spring Web
